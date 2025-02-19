@@ -9,8 +9,6 @@
 <img src="https://img.shields.io/badge/Rust-e44c25" alt="Rust" />
 </p>
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently a front-end programmer.
 - 🌱 I’m currently learning `Rust` and `Python`
 - 📫 How to reach me: **r2coder@163.com**
